@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/sweetalert2/sweetalert2-react-content/compare/v1.0.1...v1.0.2) (2018-07-28)
+
+
+### Bug Fixes
+
+* **jest:** set testURL to localhost ([#55](https://github.com/sweetalert2/sweetalert2-react-content/issues/55)) ([cbf7792](https://github.com/sweetalert2/sweetalert2-react-content/commit/cbf7792))
+
 ## [1.0.1](https://github.com/sweetalert2/sweetalert2-react-content/compare/v1.0.0...v1.0.1) (2018-06-18)
 
 
